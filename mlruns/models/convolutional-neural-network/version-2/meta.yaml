@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1733869528573
+current_stage: None
+description: ''
+last_updated_timestamp: 1733869528573
+name: convolutional-neural-network
+run_id: 0691c41a1bc54dbcb837edc3462cbbd1
+run_link: ''
+source: mlflow-artifacts:/344762819335167390/0691c41a1bc54dbcb837edc3462cbbd1/artifacts/cnn_model
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/344762819335167390/0691c41a1bc54dbcb837edc3462cbbd1/artifacts/cnn_model
+user_id: null
+version: 2

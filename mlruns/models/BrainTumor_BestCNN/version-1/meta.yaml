@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1733872740851
+current_stage: None
+description: ''
+last_updated_timestamp: 1733872740851
+name: BrainTumor_BestCNN
+run_id: 7b6ab6dae00443878f8e89536fcb2bd1
+run_link: ''
+source: mlflow-artifacts:/344762819335167390/7b6ab6dae00443878f8e89536fcb2bd1/artifacts/cnn_model
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/344762819335167390/7b6ab6dae00443878f8e89536fcb2bd1/artifacts/cnn_model
+user_id: null
+version: 1
