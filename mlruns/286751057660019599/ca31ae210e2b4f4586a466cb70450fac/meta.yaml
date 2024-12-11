@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/286751057660019599/ca31ae210e2b4f4586a466cb70450fac/artifacts
+end_time: 1733879876450
+entry_point_name: ''
+experiment_id: '286751057660019599'
+lifecycle_stage: active
+run_id: ca31ae210e2b4f4586a466cb70450fac
+run_name: blushing-bird-565
+run_uuid: ca31ae210e2b4f4586a466cb70450fac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733879836598
+status: 3
+tags: []
+user_id: i-gha

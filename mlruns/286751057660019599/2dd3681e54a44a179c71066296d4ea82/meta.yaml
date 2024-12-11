@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/286751057660019599/2dd3681e54a44a179c71066296d4ea82/artifacts
+end_time: 1733878449298
+entry_point_name: ''
+experiment_id: '286751057660019599'
+lifecycle_stage: active
+run_id: 2dd3681e54a44a179c71066296d4ea82
+run_name: powerful-dog-966
+run_uuid: 2dd3681e54a44a179c71066296d4ea82
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733878438571
+status: 3
+tags: []
+user_id: i-gha

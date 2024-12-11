@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/286751057660019599/bfe202f0d19845619dca5534aed3ae50/artifacts
+end_time: 1733873561559
+entry_point_name: ''
+experiment_id: '286751057660019599'
+lifecycle_stage: active
+run_id: bfe202f0d19845619dca5534aed3ae50
+run_name: able-flea-211
+run_uuid: bfe202f0d19845619dca5534aed3ae50
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733873526821
+status: 3
+tags: []
+user_id: i-gha

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/286751057660019599/56f059c591e9447eb6c10696ea20e482/artifacts
+end_time: 1733875984746
+entry_point_name: ''
+experiment_id: '286751057660019599'
+lifecycle_stage: active
+run_id: 56f059c591e9447eb6c10696ea20e482
+run_name: worried-koi-805
+run_uuid: 56f059c591e9447eb6c10696ea20e482
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733875968817
+status: 3
+tags: []
+user_id: i-gha

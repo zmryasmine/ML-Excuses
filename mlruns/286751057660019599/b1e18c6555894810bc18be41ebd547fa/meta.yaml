@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/286751057660019599/b1e18c6555894810bc18be41ebd547fa/artifacts
+end_time: 1733876115730
+entry_point_name: ''
+experiment_id: '286751057660019599'
+lifecycle_stage: active
+run_id: b1e18c6555894810bc18be41ebd547fa
+run_name: legendary-whale-742
+run_uuid: b1e18c6555894810bc18be41ebd547fa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733876098698
+status: 3
+tags: []
+user_id: i-gha

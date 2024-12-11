@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/286751057660019599/5af1f0a35af14e0e85d5ed70e5437c2d/artifacts
+end_time: 1733874154686
+entry_point_name: ''
+experiment_id: '286751057660019599'
+lifecycle_stage: active
+run_id: 5af1f0a35af14e0e85d5ed70e5437c2d
+run_name: righteous-swan-458
+run_uuid: 5af1f0a35af14e0e85d5ed70e5437c2d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733874147371
+status: 3
+tags: []
+user_id: i-gha

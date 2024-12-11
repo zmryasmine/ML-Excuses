@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/286751057660019599/f08772e141844d7382fddf62c8a3c375/artifacts
+end_time: 1733875291094
+entry_point_name: ''
+experiment_id: '286751057660019599'
+lifecycle_stage: active
+run_id: f08772e141844d7382fddf62c8a3c375
+run_name: resilient-midge-577
+run_uuid: f08772e141844d7382fddf62c8a3c375
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733875205336
+status: 3
+tags: []
+user_id: i-gha

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/286751057660019599/be00b7ed41dc4d8291fbb07010575756/artifacts
+end_time: 1733875954101
+entry_point_name: ''
+experiment_id: '286751057660019599'
+lifecycle_stage: active
+run_id: be00b7ed41dc4d8291fbb07010575756
+run_name: trusting-ant-804
+run_uuid: be00b7ed41dc4d8291fbb07010575756
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733875940665
+status: 3
+tags: []
+user_id: i-gha

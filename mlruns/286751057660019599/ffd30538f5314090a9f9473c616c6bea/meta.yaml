@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/286751057660019599/ffd30538f5314090a9f9473c616c6bea/artifacts
+end_time: 1733873495906
+entry_point_name: ''
+experiment_id: '286751057660019599'
+lifecycle_stage: active
+run_id: ffd30538f5314090a9f9473c616c6bea
+run_name: indecisive-mouse-829
+run_uuid: ffd30538f5314090a9f9473c616c6bea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733873378708
+status: 3
+tags: []
+user_id: i-gha

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/286751057660019599/d64e34a7f24e490aa3f5b519b96d290a/artifacts
+end_time: 1733879526762
+entry_point_name: ''
+experiment_id: '286751057660019599'
+lifecycle_stage: active
+run_id: d64e34a7f24e490aa3f5b519b96d290a
+run_name: funny-donkey-868
+run_uuid: d64e34a7f24e490aa3f5b519b96d290a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733879421498
+status: 3
+tags: []
+user_id: i-gha

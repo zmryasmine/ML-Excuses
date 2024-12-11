@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/286751057660019599/da07d09d294a4441a1eb7c55bebd0b46/artifacts
+end_time: 1733875471684
+entry_point_name: ''
+experiment_id: '286751057660019599'
+lifecycle_stage: active
+run_id: da07d09d294a4441a1eb7c55bebd0b46
+run_name: overjoyed-mule-57
+run_uuid: da07d09d294a4441a1eb7c55bebd0b46
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733875434018
+status: 3
+tags: []
+user_id: i-gha

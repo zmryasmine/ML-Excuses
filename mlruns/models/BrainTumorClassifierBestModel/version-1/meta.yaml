@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1733885436061
+current_stage: None
+description: ''
+last_updated_timestamp: 1733885436061
+name: BrainTumorClassifierBestModel
+run_id: 1203455879ff42b89d9a409757d658df
+run_link: ''
+source: mlflow-artifacts:/286751057660019599/1203455879ff42b89d9a409757d658df/artifacts/model_brain_tumor_classifier
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/286751057660019599/1203455879ff42b89d9a409757d658df/artifacts/model_brain_tumor_classifier
+user_id: null
+version: 1

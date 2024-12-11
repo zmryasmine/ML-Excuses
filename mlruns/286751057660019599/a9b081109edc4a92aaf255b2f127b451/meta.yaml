@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/286751057660019599/a9b081109edc4a92aaf255b2f127b451/artifacts
+end_time: 1733874978973
+entry_point_name: ''
+experiment_id: '286751057660019599'
+lifecycle_stage: active
+run_id: a9b081109edc4a92aaf255b2f127b451
+run_name: exultant-skunk-879
+run_uuid: a9b081109edc4a92aaf255b2f127b451
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733874939536
+status: 3
+tags: []
+user_id: i-gha

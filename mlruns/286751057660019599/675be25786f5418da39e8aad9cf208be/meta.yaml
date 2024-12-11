@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/286751057660019599/675be25786f5418da39e8aad9cf208be/artifacts
+end_time: 1733875940621
+entry_point_name: ''
+experiment_id: '286751057660019599'
+lifecycle_stage: active
+run_id: 675be25786f5418da39e8aad9cf208be
+run_name: calm-fox-33
+run_uuid: 675be25786f5418da39e8aad9cf208be
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733875928244
+status: 3
+tags: []
+user_id: i-gha

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/286751057660019599/bac7ca94802c4dbdbc068327b15b239a/artifacts
+end_time: 1733874249857
+entry_point_name: ''
+experiment_id: '286751057660019599'
+lifecycle_stage: active
+run_id: bac7ca94802c4dbdbc068327b15b239a
+run_name: gregarious-boar-200
+run_uuid: bac7ca94802c4dbdbc068327b15b239a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733874232150
+status: 3
+tags: []
+user_id: i-gha

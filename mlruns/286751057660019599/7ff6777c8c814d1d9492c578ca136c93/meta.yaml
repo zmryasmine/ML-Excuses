@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/286751057660019599/7ff6777c8c814d1d9492c578ca136c93/artifacts
+end_time: 1733874464905
+entry_point_name: ''
+experiment_id: '286751057660019599'
+lifecycle_stage: active
+run_id: 7ff6777c8c814d1d9492c578ca136c93
+run_name: fun-hare-654
+run_uuid: 7ff6777c8c814d1d9492c578ca136c93
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733874447901
+status: 3
+tags: []
+user_id: i-gha

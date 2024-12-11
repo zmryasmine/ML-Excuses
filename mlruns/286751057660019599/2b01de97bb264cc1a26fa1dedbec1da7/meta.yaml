@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/286751057660019599/2b01de97bb264cc1a26fa1dedbec1da7/artifacts
+end_time: 1733878414604
+entry_point_name: ''
+experiment_id: '286751057660019599'
+lifecycle_stage: active
+run_id: 2b01de97bb264cc1a26fa1dedbec1da7
+run_name: valuable-sheep-909
+run_uuid: 2b01de97bb264cc1a26fa1dedbec1da7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733878409365
+status: 3
+tags: []
+user_id: i-gha

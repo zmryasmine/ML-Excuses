@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/286751057660019599/61ffb12bc39a4888b4504cd42fa92962/artifacts
+end_time: 1733876031409
+entry_point_name: ''
+experiment_id: '286751057660019599'
+lifecycle_stage: active
+run_id: 61ffb12bc39a4888b4504cd42fa92962
+run_name: nebulous-dove-961
+run_uuid: 61ffb12bc39a4888b4504cd42fa92962
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733876022266
+status: 3
+tags: []
+user_id: i-gha

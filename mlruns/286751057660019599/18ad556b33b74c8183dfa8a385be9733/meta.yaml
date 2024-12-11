@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/286751057660019599/18ad556b33b74c8183dfa8a385be9733/artifacts
+end_time: 1733878438540
+entry_point_name: ''
+experiment_id: '286751057660019599'
+lifecycle_stage: active
+run_id: 18ad556b33b74c8183dfa8a385be9733
+run_name: wise-stoat-935
+run_uuid: 18ad556b33b74c8183dfa8a385be9733
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733878429313
+status: 3
+tags: []
+user_id: i-gha

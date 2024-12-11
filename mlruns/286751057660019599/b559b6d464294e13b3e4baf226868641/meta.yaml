@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/286751057660019599/b559b6d464294e13b3e4baf226868641/artifacts
+end_time: 1733878307737
+entry_point_name: ''
+experiment_id: '286751057660019599'
+lifecycle_stage: active
+run_id: b559b6d464294e13b3e4baf226868641
+run_name: stylish-stork-465
+run_uuid: b559b6d464294e13b3e4baf226868641
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733878303756
+status: 3
+tags: []
+user_id: i-gha

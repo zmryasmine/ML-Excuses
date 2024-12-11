@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/286751057660019599/47286076490d45caa5134fff2799a039/artifacts
+end_time: 1733882582522
+entry_point_name: ''
+experiment_id: '286751057660019599'
+lifecycle_stage: active
+run_id: 47286076490d45caa5134fff2799a039
+run_name: stylish-squirrel-538
+run_uuid: 47286076490d45caa5134fff2799a039
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733882564588
+status: 3
+tags: []
+user_id: i-gha

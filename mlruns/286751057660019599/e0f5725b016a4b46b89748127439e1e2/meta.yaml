@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/286751057660019599/e0f5725b016a4b46b89748127439e1e2/artifacts
+end_time: 1733883062659
+entry_point_name: ''
+experiment_id: '286751057660019599'
+lifecycle_stage: active
+run_id: e0f5725b016a4b46b89748127439e1e2
+run_name: brawny-boar-183
+run_uuid: e0f5725b016a4b46b89748127439e1e2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733883056591
+status: 4
+tags: []
+user_id: i-gha

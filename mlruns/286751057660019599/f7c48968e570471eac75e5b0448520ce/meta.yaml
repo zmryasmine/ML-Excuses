@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/286751057660019599/f7c48968e570471eac75e5b0448520ce/artifacts
+end_time: 1733877067989
+entry_point_name: ''
+experiment_id: '286751057660019599'
+lifecycle_stage: active
+run_id: f7c48968e570471eac75e5b0448520ce
+run_name: wistful-carp-100
+run_uuid: f7c48968e570471eac75e5b0448520ce
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733877017106
+status: 3
+tags: []
+user_id: i-gha

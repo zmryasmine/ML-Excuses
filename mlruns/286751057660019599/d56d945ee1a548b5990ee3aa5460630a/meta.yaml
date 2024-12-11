@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/286751057660019599/d56d945ee1a548b5990ee3aa5460630a/artifacts
+end_time: 1733874310435
+entry_point_name: ''
+experiment_id: '286751057660019599'
+lifecycle_stage: active
+run_id: d56d945ee1a548b5990ee3aa5460630a
+run_name: puzzled-eel-925
+run_uuid: d56d945ee1a548b5990ee3aa5460630a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733874297567
+status: 3
+tags: []
+user_id: i-gha

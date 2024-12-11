@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/286751057660019599/78e66de3e42745c584cc733905135f56/artifacts
+end_time: 1733878803960
+entry_point_name: ''
+experiment_id: '286751057660019599'
+lifecycle_stage: active
+run_id: 78e66de3e42745c584cc733905135f56
+run_name: judicious-sow-461
+run_uuid: 78e66de3e42745c584cc733905135f56
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733878727325
+status: 3
+tags: []
+user_id: i-gha

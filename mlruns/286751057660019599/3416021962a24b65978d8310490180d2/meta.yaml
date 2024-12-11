@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/286751057660019599/3416021962a24b65978d8310490180d2/artifacts
+end_time: 1733880866436
+entry_point_name: ''
+experiment_id: '286751057660019599'
+lifecycle_stage: active
+run_id: 3416021962a24b65978d8310490180d2
+run_name: delicate-squid-752
+run_uuid: 3416021962a24b65978d8310490180d2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733880855520
+status: 3
+tags: []
+user_id: i-gha

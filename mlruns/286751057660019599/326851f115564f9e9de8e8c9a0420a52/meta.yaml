@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/286751057660019599/326851f115564f9e9de8e8c9a0420a52/artifacts
+end_time: 1733882759413
+entry_point_name: ''
+experiment_id: '286751057660019599'
+lifecycle_stage: active
+run_id: 326851f115564f9e9de8e8c9a0420a52
+run_name: fortunate-moose-592
+run_uuid: 326851f115564f9e9de8e8c9a0420a52
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733882735471
+status: 4
+tags: []
+user_id: i-gha

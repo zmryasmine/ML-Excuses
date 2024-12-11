@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/286751057660019599/cd9c6549e8e846edb221d09750cc2169/artifacts
+end_time: 1733879657160
+entry_point_name: ''
+experiment_id: '286751057660019599'
+lifecycle_stage: active
+run_id: cd9c6549e8e846edb221d09750cc2169
+run_name: bold-owl-140
+run_uuid: cd9c6549e8e846edb221d09750cc2169
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733879526806
+status: 3
+tags: []
+user_id: i-gha

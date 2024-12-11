@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/286751057660019599/b5b546b3761f45809225e4b67587583d/artifacts
+end_time: 1733879810295
+entry_point_name: ''
+experiment_id: '286751057660019599'
+lifecycle_stage: active
+run_id: b5b546b3761f45809225e4b67587583d
+run_name: colorful-stork-492
+run_uuid: b5b546b3761f45809225e4b67587583d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733879798809
+status: 3
+tags: []
+user_id: i-gha

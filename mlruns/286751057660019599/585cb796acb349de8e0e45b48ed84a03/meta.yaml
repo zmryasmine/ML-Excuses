@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/286751057660019599/585cb796acb349de8e0e45b48ed84a03/artifacts
+end_time: 1733878007336
+entry_point_name: ''
+experiment_id: '286751057660019599'
+lifecycle_stage: active
+run_id: 585cb796acb349de8e0e45b48ed84a03
+run_name: sincere-kit-243
+run_uuid: 585cb796acb349de8e0e45b48ed84a03
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733877925384
+status: 3
+tags: []
+user_id: i-gha

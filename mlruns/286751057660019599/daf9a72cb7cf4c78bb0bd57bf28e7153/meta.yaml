@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/286751057660019599/daf9a72cb7cf4c78bb0bd57bf28e7153/artifacts
+end_time: 1733877131924
+entry_point_name: ''
+experiment_id: '286751057660019599'
+lifecycle_stage: active
+run_id: daf9a72cb7cf4c78bb0bd57bf28e7153
+run_name: fortunate-mink-108
+run_uuid: daf9a72cb7cf4c78bb0bd57bf28e7153
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733877068033
+status: 3
+tags: []
+user_id: i-gha

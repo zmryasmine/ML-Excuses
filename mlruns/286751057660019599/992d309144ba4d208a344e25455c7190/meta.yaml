@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/286751057660019599/992d309144ba4d208a344e25455c7190/artifacts
+end_time: 1733880812095
+entry_point_name: ''
+experiment_id: '286751057660019599'
+lifecycle_stage: active
+run_id: 992d309144ba4d208a344e25455c7190
+run_name: overjoyed-mole-804
+run_uuid: 992d309144ba4d208a344e25455c7190
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733880791773
+status: 3
+tags: []
+user_id: i-gha

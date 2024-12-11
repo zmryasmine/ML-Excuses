@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/286751057660019599/ec248fff5ffa4e36bb9a4af7d44fd688/artifacts
+end_time: 1733873607350
+entry_point_name: ''
+experiment_id: '286751057660019599'
+lifecycle_stage: active
+run_id: ec248fff5ffa4e36bb9a4af7d44fd688
+run_name: adaptable-roo-134
+run_uuid: ec248fff5ffa4e36bb9a4af7d44fd688
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733873561588
+status: 3
+tags: []
+user_id: i-gha

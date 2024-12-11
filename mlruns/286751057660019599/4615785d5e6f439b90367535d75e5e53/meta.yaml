@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/286751057660019599/4615785d5e6f439b90367535d75e5e53/artifacts
+end_time: 1733875405543
+entry_point_name: ''
+experiment_id: '286751057660019599'
+lifecycle_stage: active
+run_id: 4615785d5e6f439b90367535d75e5e53
+run_name: bemused-turtle-818
+run_uuid: 4615785d5e6f439b90367535d75e5e53
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733875387185
+status: 3
+tags: []
+user_id: i-gha

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/286751057660019599/14b01279ad4846e89c4a2aa811c3d78b/artifacts
+end_time: 1733877685895
+entry_point_name: ''
+experiment_id: '286751057660019599'
+lifecycle_stage: active
+run_id: 14b01279ad4846e89c4a2aa811c3d78b
+run_name: glamorous-koi-450
+run_uuid: 14b01279ad4846e89c4a2aa811c3d78b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733877653802
+status: 3
+tags: []
+user_id: i-gha

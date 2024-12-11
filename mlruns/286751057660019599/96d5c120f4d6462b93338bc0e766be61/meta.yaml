@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/286751057660019599/96d5c120f4d6462b93338bc0e766be61/artifacts
+end_time: 1733874174475
+entry_point_name: ''
+experiment_id: '286751057660019599'
+lifecycle_stage: active
+run_id: 96d5c120f4d6462b93338bc0e766be61
+run_name: upbeat-quail-725
+run_uuid: 96d5c120f4d6462b93338bc0e766be61
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733874164093
+status: 3
+tags: []
+user_id: i-gha

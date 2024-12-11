@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/286751057660019599/8fa7373d4f974b1c8230d9fe33c8eff3/artifacts
+end_time: 1733872256855
+entry_point_name: ''
+experiment_id: '286751057660019599'
+lifecycle_stage: active
+run_id: 8fa7373d4f974b1c8230d9fe33c8eff3
+run_name: worried-roo-715
+run_uuid: 8fa7373d4f974b1c8230d9fe33c8eff3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733872233933
+status: 3
+tags: []
+user_id: i-gha

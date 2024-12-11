@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/286751057660019599/5ae7658233ba4c60b4ce9139da977cf2/artifacts
+end_time: 1733878246342
+entry_point_name: ''
+experiment_id: '286751057660019599'
+lifecycle_stage: active
+run_id: 5ae7658233ba4c60b4ce9139da977cf2
+run_name: bedecked-worm-619
+run_uuid: 5ae7658233ba4c60b4ce9139da977cf2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733878235632
+status: 3
+tags: []
+user_id: i-gha

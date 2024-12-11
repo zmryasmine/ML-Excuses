@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/286751057660019599/843b0085687c4f2abe6d3a77222d3825/artifacts
+end_time: 1733873097311
+entry_point_name: ''
+experiment_id: '286751057660019599'
+lifecycle_stage: active
+run_id: 843b0085687c4f2abe6d3a77222d3825
+run_name: glamorous-moose-482
+run_uuid: 843b0085687c4f2abe6d3a77222d3825
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733873028429
+status: 3
+tags: []
+user_id: i-gha

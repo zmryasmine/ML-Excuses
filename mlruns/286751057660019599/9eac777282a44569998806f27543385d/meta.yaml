@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/286751057660019599/9eac777282a44569998806f27543385d/artifacts
+end_time: 1733873526791
+entry_point_name: ''
+experiment_id: '286751057660019599'
+lifecycle_stage: active
+run_id: 9eac777282a44569998806f27543385d
+run_name: lyrical-cat-296
+run_uuid: 9eac777282a44569998806f27543385d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733873505003
+status: 3
+tags: []
+user_id: i-gha

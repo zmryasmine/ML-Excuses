@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/286751057660019599/c69b9d2a723b4a65bf1e069239e332f9/artifacts
+end_time: 1733875433972
+entry_point_name: ''
+experiment_id: '286751057660019599'
+lifecycle_stage: active
+run_id: c69b9d2a723b4a65bf1e069239e332f9
+run_name: melodic-snake-164
+run_uuid: c69b9d2a723b4a65bf1e069239e332f9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733875405583
+status: 3
+tags: []
+user_id: i-gha

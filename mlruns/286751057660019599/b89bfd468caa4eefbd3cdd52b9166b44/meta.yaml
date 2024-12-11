@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/286751057660019599/b89bfd468caa4eefbd3cdd52b9166b44/artifacts
+end_time: 1733872468862
+entry_point_name: ''
+experiment_id: '286751057660019599'
+lifecycle_stage: active
+run_id: b89bfd468caa4eefbd3cdd52b9166b44
+run_name: worried-fish-277
+run_uuid: b89bfd468caa4eefbd3cdd52b9166b44
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733872398332
+status: 3
+tags: []
+user_id: i-gha

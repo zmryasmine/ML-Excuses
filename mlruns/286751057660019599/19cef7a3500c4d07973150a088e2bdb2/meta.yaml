@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/286751057660019599/19cef7a3500c4d07973150a088e2bdb2/artifacts
+end_time: 1733877623883
+entry_point_name: ''
+experiment_id: '286751057660019599'
+lifecycle_stage: active
+run_id: 19cef7a3500c4d07973150a088e2bdb2
+run_name: receptive-skunk-96
+run_uuid: 19cef7a3500c4d07973150a088e2bdb2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733877514112
+status: 3
+tags: []
+user_id: i-gha

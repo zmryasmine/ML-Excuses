@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/286751057660019599/5e96ba3a8cdd40de9d49eece45c8f8da/artifacts
+end_time: 1733876007344
+entry_point_name: ''
+experiment_id: '286751057660019599'
+lifecycle_stage: active
+run_id: 5e96ba3a8cdd40de9d49eece45c8f8da
+run_name: angry-wolf-433
+run_uuid: 5e96ba3a8cdd40de9d49eece45c8f8da
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733876002068
+status: 3
+tags: []
+user_id: i-gha

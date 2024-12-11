@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/286751057660019599/0b762ee765f143ceb979efcda81110fd/artifacts
+end_time: 1733874186513
+entry_point_name: ''
+experiment_id: '286751057660019599'
+lifecycle_stage: active
+run_id: 0b762ee765f143ceb979efcda81110fd
+run_name: industrious-toad-154
+run_uuid: 0b762ee765f143ceb979efcda81110fd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733874174508
+status: 3
+tags: []
+user_id: i-gha

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/286751057660019599/597f6f3fbf60478f9a4ea3cdc41f3187/artifacts
+end_time: 1733878405401
+entry_point_name: ''
+experiment_id: '286751057660019599'
+lifecycle_stage: active
+run_id: 597f6f3fbf60478f9a4ea3cdc41f3187
+run_name: sedate-roo-29
+run_uuid: 597f6f3fbf60478f9a4ea3cdc41f3187
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733878389229
+status: 3
+tags: []
+user_id: i-gha

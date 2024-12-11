@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/286751057660019599/1d64068632c34a4f98da27b4fa13703e/artifacts
+end_time: 1733873378679
+entry_point_name: ''
+experiment_id: '286751057660019599'
+lifecycle_stage: active
+run_id: 1d64068632c34a4f98da27b4fa13703e
+run_name: worried-fly-422
+run_uuid: 1d64068632c34a4f98da27b4fa13703e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733873273277
+status: 3
+tags: []
+user_id: i-gha

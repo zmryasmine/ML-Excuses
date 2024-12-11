@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/286751057660019599/d84f5fb427ea4e8aa290074606f9ee78/artifacts
+end_time: 1733880846505
+entry_point_name: ''
+experiment_id: '286751057660019599'
+lifecycle_stage: active
+run_id: d84f5fb427ea4e8aa290074606f9ee78
+run_name: exultant-boar-785
+run_uuid: d84f5fb427ea4e8aa290074606f9ee78
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733880839195
+status: 3
+tags: []
+user_id: i-gha

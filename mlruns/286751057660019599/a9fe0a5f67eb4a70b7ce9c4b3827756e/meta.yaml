@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/286751057660019599/a9fe0a5f67eb4a70b7ce9c4b3827756e/artifacts
+end_time: 1733876145121
+entry_point_name: ''
+experiment_id: '286751057660019599'
+lifecycle_stage: active
+run_id: a9fe0a5f67eb4a70b7ce9c4b3827756e
+run_name: skillful-midge-183
+run_uuid: a9fe0a5f67eb4a70b7ce9c4b3827756e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733876135813
+status: 3
+tags: []
+user_id: i-gha

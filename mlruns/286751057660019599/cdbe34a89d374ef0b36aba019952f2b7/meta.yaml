@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/286751057660019599/cdbe34a89d374ef0b36aba019952f2b7/artifacts
+end_time: 1733878374010
+entry_point_name: ''
+experiment_id: '286751057660019599'
+lifecycle_stage: active
+run_id: cdbe34a89d374ef0b36aba019952f2b7
+run_name: rare-quail-352
+run_uuid: cdbe34a89d374ef0b36aba019952f2b7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733878360514
+status: 3
+tags: []
+user_id: i-gha

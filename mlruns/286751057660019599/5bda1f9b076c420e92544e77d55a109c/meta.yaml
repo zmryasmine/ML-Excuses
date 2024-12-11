@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/286751057660019599/5bda1f9b076c420e92544e77d55a109c/artifacts
+end_time: 1733877514078
+entry_point_name: ''
+experiment_id: '286751057660019599'
+lifecycle_stage: active
+run_id: 5bda1f9b076c420e92544e77d55a109c
+run_name: overjoyed-hound-487
+run_uuid: 5bda1f9b076c420e92544e77d55a109c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733877403270
+status: 3
+tags: []
+user_id: i-gha

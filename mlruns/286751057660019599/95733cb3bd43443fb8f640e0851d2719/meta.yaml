@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/286751057660019599/95733cb3bd43443fb8f640e0851d2719/artifacts
+end_time: 1733880893551
+entry_point_name: ''
+experiment_id: '286751057660019599'
+lifecycle_stage: active
+run_id: 95733cb3bd43443fb8f640e0851d2719
+run_name: abundant-frog-751
+run_uuid: 95733cb3bd43443fb8f640e0851d2719
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733880879179
+status: 3
+tags: []
+user_id: i-gha

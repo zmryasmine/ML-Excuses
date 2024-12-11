@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/286751057660019599/f28c847e4aad40d7a9c8d32b40abe3d5/artifacts
+end_time: 1733874393395
+entry_point_name: ''
+experiment_id: '286751057660019599'
+lifecycle_stage: active
+run_id: f28c847e4aad40d7a9c8d32b40abe3d5
+run_name: orderly-cub-718
+run_uuid: f28c847e4aad40d7a9c8d32b40abe3d5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733874383377
+status: 3
+tags: []
+user_id: i-gha

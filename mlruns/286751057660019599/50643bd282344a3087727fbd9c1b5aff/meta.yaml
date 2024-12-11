@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/286751057660019599/50643bd282344a3087727fbd9c1b5aff/artifacts
+end_time: 1733873664224
+entry_point_name: ''
+experiment_id: '286751057660019599'
+lifecycle_stage: active
+run_id: 50643bd282344a3087727fbd9c1b5aff
+run_name: redolent-zebra-438
+run_uuid: 50643bd282344a3087727fbd9c1b5aff
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733873607380
+status: 3
+tags: []
+user_id: i-gha

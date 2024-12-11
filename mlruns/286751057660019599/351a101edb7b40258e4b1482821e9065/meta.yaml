@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/286751057660019599/351a101edb7b40258e4b1482821e9065/artifacts
+end_time: 1733873504974
+entry_point_name: ''
+experiment_id: '286751057660019599'
+lifecycle_stage: active
+run_id: 351a101edb7b40258e4b1482821e9065
+run_name: rogue-cub-649
+run_uuid: 351a101edb7b40258e4b1482821e9065
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733873495935
+status: 3
+tags: []
+user_id: i-gha

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/286751057660019599/aa77a83ca62e49f9bc95b78ed71c5e3d/artifacts
+end_time: 1733875517203
+entry_point_name: ''
+experiment_id: '286751057660019599'
+lifecycle_stage: active
+run_id: aa77a83ca62e49f9bc95b78ed71c5e3d
+run_name: nosy-panda-840
+run_uuid: aa77a83ca62e49f9bc95b78ed71c5e3d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733875471719
+status: 3
+tags: []
+user_id: i-gha

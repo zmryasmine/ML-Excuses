@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/286751057660019599/5a9925ac6dae43fe83c45cd26d4bccc8/artifacts
+end_time: 1733878287175
+entry_point_name: ''
+experiment_id: '286751057660019599'
+lifecycle_stage: active
+run_id: 5a9925ac6dae43fe83c45cd26d4bccc8
+run_name: loud-finch-352
+run_uuid: 5a9925ac6dae43fe83c45cd26d4bccc8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733878272300
+status: 3
+tags: []
+user_id: i-gha

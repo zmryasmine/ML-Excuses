@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/286751057660019599/9bc261c5c9d84ee6b97aebc8895db054/artifacts
+end_time: 1733873179991
+entry_point_name: ''
+experiment_id: '286751057660019599'
+lifecycle_stage: active
+run_id: 9bc261c5c9d84ee6b97aebc8895db054
+run_name: polite-grub-753
+run_uuid: 9bc261c5c9d84ee6b97aebc8895db054
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733873097340
+status: 3
+tags: []
+user_id: i-gha

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/286751057660019599/f669b4447ffc4013b14b04e71258d52f/artifacts
+end_time: 1733880655048
+entry_point_name: ''
+experiment_id: '286751057660019599'
+lifecycle_stage: active
+run_id: f669b4447ffc4013b14b04e71258d52f
+run_name: wistful-moth-677
+run_uuid: f669b4447ffc4013b14b04e71258d52f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733880636334
+status: 3
+tags: []
+user_id: i-gha

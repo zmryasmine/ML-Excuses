@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/286751057660019599/1e0115807ff0422c84b991cd395b3b97/artifacts
+end_time: 1733878662739
+entry_point_name: ''
+experiment_id: '286751057660019599'
+lifecycle_stage: active
+run_id: 1e0115807ff0422c84b991cd395b3b97
+run_name: illustrious-croc-486
+run_uuid: 1e0115807ff0422c84b991cd395b3b97
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733878609428
+status: 3
+tags: []
+user_id: i-gha

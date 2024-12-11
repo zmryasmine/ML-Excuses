@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/286751057660019599/92f378f810c6454bb50502f08edac801/artifacts
+end_time: 1733875637374
+entry_point_name: ''
+experiment_id: '286751057660019599'
+lifecycle_stage: active
+run_id: 92f378f810c6454bb50502f08edac801
+run_name: defiant-lark-823
+run_uuid: 92f378f810c6454bb50502f08edac801
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733875572409
+status: 3
+tags: []
+user_id: i-gha

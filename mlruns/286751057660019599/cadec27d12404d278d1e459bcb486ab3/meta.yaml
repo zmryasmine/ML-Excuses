@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/286751057660019599/cadec27d12404d278d1e459bcb486ab3/artifacts
+end_time: 1733874681330
+entry_point_name: ''
+experiment_id: '286751057660019599'
+lifecycle_stage: active
+run_id: cadec27d12404d278d1e459bcb486ab3
+run_name: burly-shoat-750
+run_uuid: cadec27d12404d278d1e459bcb486ab3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733874621821
+status: 3
+tags: []
+user_id: i-gha

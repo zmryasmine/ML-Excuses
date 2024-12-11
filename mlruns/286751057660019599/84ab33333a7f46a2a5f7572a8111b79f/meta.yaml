@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/286751057660019599/84ab33333a7f46a2a5f7572a8111b79f/artifacts
+end_time: 1733874432174
+entry_point_name: ''
+experiment_id: '286751057660019599'
+lifecycle_stage: active
+run_id: 84ab33333a7f46a2a5f7572a8111b79f
+run_name: gregarious-vole-919
+run_uuid: 84ab33333a7f46a2a5f7572a8111b79f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733874417907
+status: 3
+tags: []
+user_id: i-gha

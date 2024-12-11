@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/286751057660019599/8de4a3629da84e8185bf5d3061e8aa6d/artifacts
+end_time: 1733878211165
+entry_point_name: ''
+experiment_id: '286751057660019599'
+lifecycle_stage: active
+run_id: 8de4a3629da84e8185bf5d3061e8aa6d
+run_name: polite-skink-462
+run_uuid: 8de4a3629da84e8185bf5d3061e8aa6d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733878205661
+status: 3
+tags: []
+user_id: i-gha

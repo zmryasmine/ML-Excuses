@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/286751057660019599/fed357552fff44418725f7458543c4df/artifacts
+end_time: 1733874259421
+entry_point_name: ''
+experiment_id: '286751057660019599'
+lifecycle_stage: active
+run_id: fed357552fff44418725f7458543c4df
+run_name: defiant-doe-768
+run_uuid: fed357552fff44418725f7458543c4df
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733874253947
+status: 3
+tags: []
+user_id: i-gha

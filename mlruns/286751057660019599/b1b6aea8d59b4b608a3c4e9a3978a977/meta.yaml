@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/286751057660019599/b1b6aea8d59b4b608a3c4e9a3978a977/artifacts
+end_time: 1733872552489
+entry_point_name: ''
+experiment_id: '286751057660019599'
+lifecycle_stage: active
+run_id: b1b6aea8d59b4b608a3c4e9a3978a977
+run_name: bouncy-horse-621
+run_uuid: b1b6aea8d59b4b608a3c4e9a3978a977
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733872468900
+status: 3
+tags: []
+user_id: i-gha

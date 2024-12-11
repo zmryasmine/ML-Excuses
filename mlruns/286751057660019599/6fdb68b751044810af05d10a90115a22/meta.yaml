@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/286751057660019599/6fdb68b751044810af05d10a90115a22/artifacts
+end_time: 1733875968775
+entry_point_name: ''
+experiment_id: '286751057660019599'
+lifecycle_stage: active
+run_id: 6fdb68b751044810af05d10a90115a22
+run_name: powerful-midge-644
+run_uuid: 6fdb68b751044810af05d10a90115a22
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733875954141
+status: 3
+tags: []
+user_id: i-gha

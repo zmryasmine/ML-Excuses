@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/286751057660019599/4b5e8cf2d15447a1a353beb4c4944fba/artifacts
+end_time: 1733872293281
+entry_point_name: ''
+experiment_id: '286751057660019599'
+lifecycle_stage: active
+run_id: 4b5e8cf2d15447a1a353beb4c4944fba
+run_name: exultant-moth-145
+run_uuid: 4b5e8cf2d15447a1a353beb4c4944fba
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733872256903
+status: 3
+tags: []
+user_id: i-gha
