@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1731184704648
+current_stage: None
+description: ''
+last_updated_timestamp: 1731184704648
+name: WearableStressClassifierModelBestModel
+run_id: b849c69edb3c4cf7919f36044fc4dbe7
+run_link: ''
+source: mlflow-artifacts:/369505701500498997/b849c69edb3c4cf7919f36044fc4dbe7/artifacts/model_logistic_regression
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/369505701500498997/b849c69edb3c4cf7919f36044fc4dbe7/artifacts/model_logistic_regression
+user_id: null
+version: 7
