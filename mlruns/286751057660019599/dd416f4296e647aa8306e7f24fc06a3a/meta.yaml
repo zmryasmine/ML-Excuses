@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/286751057660019599/dd416f4296e647aa8306e7f24fc06a3a/artifacts
+end_time: 1733917337792
+entry_point_name: ''
+experiment_id: '286751057660019599'
+lifecycle_stage: active
+run_id: dd416f4296e647aa8306e7f24fc06a3a
+run_name: orderly-mouse-11
+run_uuid: dd416f4296e647aa8306e7f24fc06a3a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733917309356
+status: 3
+tags: []
+user_id: user

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/286751057660019599/3c8303e2c53f4ceca926834b24207186/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '286751057660019599'
+lifecycle_stage: active
+run_id: 3c8303e2c53f4ceca926834b24207186
+run_name: gifted-conch-360
+run_uuid: 3c8303e2c53f4ceca926834b24207186
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733920959221
+status: 1
+tags: []
+user_id: user
