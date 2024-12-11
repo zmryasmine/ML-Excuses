@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Brain Tumor Prediction</title>
+    <link rel="stylesheet" href="/static/style.css">
+</head>
+
+<body>
+    <div class="container">
+        <h1>Brain Tumor Prediction</h1>
+
+        <!-- Always visible placeholder image -->
+        <div class="placeholder-container">
+            <img src="/static/placeholder.png" alt="Placeholder Image" class="always-visible-placeholder">
+        </div>
+
+        <!-- Form for image upload -->
+        <form method="post" enctype="multipart/form-data">
+            <label for="file-upload" class="custom-file-upload">
+                Choose an Image
+            </label>
+            <input type="file" id="file-upload" name="file" accept="image/*" required onchange="showProcessButton()">
+            <button id="process-button" type="submit" style="display: none;">Upload and Predict</button>
+        </form>
+
+        <!-- Show the uploaded image and prediction result -->
+        {% if uploaded_image %}
+        <div class="uploaded-image-container">
+            <img src="{{ uploaded_image }}" alt="Uploaded Image" class="uploaded-image">
+        </div>
+        {% endif %}
+
+        {% if prediction %}
+        <div class="result">
+            <h2>Prediction Result:</h2>
+            <p>Prediction: <strong>{{ prediction }}</strong></p>
+        </div>
+        {% elif error %}
+        <div class="error">
+            <p>Error: {{ error }}</p>
+        </div>
+        {% endif %}
+    </div>
+
+    <script>
+        // Show the process button when a file is selected
+        function showProcessButton() {
+            const button = document.getElementById('process-button');
+            button.style.display = 'inline-block';
+        }
+    </script>
+</body>
+
+</html>

@@ -1,0 +1,8 @@
+name: Brain_Tumor_Classification
+
+environnement : 
+  requirements_file : requirements.txt  # Spécifie le fichier de l'environnement conda (optionnel)
+
+entry_points:
+  main:
+    command: "python experiment.py"

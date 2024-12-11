@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/286751057660019599/be022d4a98c24cc0b6d2da7235868917/artifacts
+end_time: 1733919642811
+entry_point_name: ''
+experiment_id: '286751057660019599'
+lifecycle_stage: active
+run_id: be022d4a98c24cc0b6d2da7235868917
+run_name: placid-conch-386
+run_uuid: be022d4a98c24cc0b6d2da7235868917
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733919626004
+status: 3
+tags: []
+user_id: user
