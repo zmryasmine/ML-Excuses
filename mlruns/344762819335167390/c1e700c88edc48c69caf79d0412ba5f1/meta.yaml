@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/344762819335167390/c1e700c88edc48c69caf79d0412ba5f1/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '344762819335167390'
+lifecycle_stage: active
+run_id: c1e700c88edc48c69caf79d0412ba5f1
+run_name: 'CNN : Experiment 5'
+run_uuid: c1e700c88edc48c69caf79d0412ba5f1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733882182147
+status: 1
+tags: []
+user_id: user
