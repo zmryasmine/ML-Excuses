@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/578292749824026531/fc595bc5e766403fb83900aa8c63673e/artifacts
+deleted_time: 1733875243430
+end_time: 1733874618133
+entry_point_name: ''
+experiment_id: '578292749824026531'
+lifecycle_stage: deleted
+run_id: fc595bc5e766403fb83900aa8c63673e
+run_name: likeable-moose-102
+run_uuid: fc595bc5e766403fb83900aa8c63673e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733874610238
+status: 4
+tags: []
+user_id: nasblade

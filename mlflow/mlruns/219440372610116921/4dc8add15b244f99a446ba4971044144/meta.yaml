@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/219440372610116921/4dc8add15b244f99a446ba4971044144/artifacts
+end_time: 1733875190743
+entry_point_name: ''
+experiment_id: '219440372610116921'
+lifecycle_stage: active
+run_id: 4dc8add15b244f99a446ba4971044144
+run_name: nebulous-lark-646
+run_uuid: 4dc8add15b244f99a446ba4971044144
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733874999448
+status: 3
+tags: []
+user_id: nasblade

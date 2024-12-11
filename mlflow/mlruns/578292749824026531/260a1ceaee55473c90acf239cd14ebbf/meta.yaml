@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/578292749824026531/260a1ceaee55473c90acf239cd14ebbf/artifacts
+deleted_time: 1733875243432
+end_time: 1733874743697
+entry_point_name: ''
+experiment_id: '578292749824026531'
+lifecycle_stage: deleted
+run_id: 260a1ceaee55473c90acf239cd14ebbf
+run_name: thoughtful-skunk-793
+run_uuid: 260a1ceaee55473c90acf239cd14ebbf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733874735768
+status: 4
+tags: []
+user_id: nasblade
