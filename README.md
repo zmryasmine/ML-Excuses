@@ -12,3 +12,5 @@ Group7 : Brain Tumor Classification.
 - Yasmine ZEMMOURI
 - Yasmine MESDOUR
 - Ilyas GHAZOUI
+
+M2 SID.
