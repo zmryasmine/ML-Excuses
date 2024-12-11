@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/286751057660019599/e9266ad069a64860874af1b12aea98ff/artifacts
+end_time: 1733876240177
+entry_point_name: ''
+experiment_id: '286751057660019599'
+lifecycle_stage: active
+run_id: e9266ad069a64860874af1b12aea98ff
+run_name: stylish-moth-216
+run_uuid: e9266ad069a64860874af1b12aea98ff
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733876228971
+status: 3
+tags: []
+user_id: i-gha

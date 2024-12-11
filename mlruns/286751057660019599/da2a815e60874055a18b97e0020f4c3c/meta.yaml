@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/286751057660019599/da2a815e60874055a18b97e0020f4c3c/artifacts
+end_time: 1733880605308
+entry_point_name: ''
+experiment_id: '286751057660019599'
+lifecycle_stage: active
+run_id: da2a815e60874055a18b97e0020f4c3c
+run_name: amazing-mouse-900
+run_uuid: da2a815e60874055a18b97e0020f4c3c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733880592381
+status: 3
+tags: []
+user_id: i-gha

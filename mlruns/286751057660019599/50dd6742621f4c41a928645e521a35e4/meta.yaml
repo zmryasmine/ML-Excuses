@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/286751057660019599/50dd6742621f4c41a928645e521a35e4/artifacts
+end_time: 1733880082432
+entry_point_name: ''
+experiment_id: '286751057660019599'
+lifecycle_stage: active
+run_id: 50dd6742621f4c41a928645e521a35e4
+run_name: intrigued-mole-371
+run_uuid: 50dd6742621f4c41a928645e521a35e4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733879999605
+status: 3
+tags: []
+user_id: i-gha

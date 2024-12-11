@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/286751057660019599/9232686bbd314d82a70f7aee42bb5563/artifacts
+end_time: 1733875893061
+entry_point_name: ''
+experiment_id: '286751057660019599'
+lifecycle_stage: active
+run_id: 9232686bbd314d82a70f7aee42bb5563
+run_name: stylish-snipe-848
+run_uuid: 9232686bbd314d82a70f7aee42bb5563
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733875887588
+status: 3
+tags: []
+user_id: i-gha

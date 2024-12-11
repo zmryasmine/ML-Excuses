@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/286751057660019599/451a1989b3b44cc9b7c12639507bcd65/artifacts
+end_time: 1733878226033
+entry_point_name: ''
+experiment_id: '286751057660019599'
+lifecycle_stage: active
+run_id: 451a1989b3b44cc9b7c12639507bcd65
+run_name: glamorous-kit-532
+run_uuid: 451a1989b3b44cc9b7c12639507bcd65
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733878217923
+status: 3
+tags: []
+user_id: i-gha

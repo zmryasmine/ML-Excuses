@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/286751057660019599/3da7832c50d3403a99dd12b598b18540/artifacts
+end_time: 1733877299646
+entry_point_name: ''
+experiment_id: '286751057660019599'
+lifecycle_stage: active
+run_id: 3da7832c50d3403a99dd12b598b18540
+run_name: gentle-cat-288
+run_uuid: 3da7832c50d3403a99dd12b598b18540
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733877209281
+status: 3
+tags: []
+user_id: i-gha

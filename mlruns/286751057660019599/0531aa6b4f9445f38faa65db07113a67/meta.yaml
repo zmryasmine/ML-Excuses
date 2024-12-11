@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/286751057660019599/0531aa6b4f9445f38faa65db07113a67/artifacts
+end_time: 1733878205630
+entry_point_name: ''
+experiment_id: '286751057660019599'
+lifecycle_stage: active
+run_id: 0531aa6b4f9445f38faa65db07113a67
+run_name: bustling-toad-575
+run_uuid: 0531aa6b4f9445f38faa65db07113a67
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733878201529
+status: 3
+tags: []
+user_id: i-gha

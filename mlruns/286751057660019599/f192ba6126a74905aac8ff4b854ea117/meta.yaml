@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/286751057660019599/f192ba6126a74905aac8ff4b854ea117/artifacts
+end_time: 1733878514328
+entry_point_name: ''
+experiment_id: '286751057660019599'
+lifecycle_stage: active
+run_id: f192ba6126a74905aac8ff4b854ea117
+run_name: marvelous-fish-49
+run_uuid: f192ba6126a74905aac8ff4b854ea117
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733878505446
+status: 3
+tags: []
+user_id: i-gha

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/286751057660019599/0db2ad3e6ee541bf999b0b3483ba0921/artifacts
+end_time: 1733880742299
+entry_point_name: ''
+experiment_id: '286751057660019599'
+lifecycle_stage: active
+run_id: 0db2ad3e6ee541bf999b0b3483ba0921
+run_name: learned-hog-118
+run_uuid: 0db2ad3e6ee541bf999b0b3483ba0921
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733880729531
+status: 3
+tags: []
+user_id: i-gha

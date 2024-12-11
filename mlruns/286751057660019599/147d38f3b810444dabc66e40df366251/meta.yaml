@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/286751057660019599/147d38f3b810444dabc66e40df366251/artifacts
+end_time: 1733874383345
+entry_point_name: ''
+experiment_id: '286751057660019599'
+lifecycle_stage: active
+run_id: 147d38f3b810444dabc66e40df366251
+run_name: useful-shark-493
+run_uuid: 147d38f3b810444dabc66e40df366251
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733874374710
+status: 3
+tags: []
+user_id: i-gha

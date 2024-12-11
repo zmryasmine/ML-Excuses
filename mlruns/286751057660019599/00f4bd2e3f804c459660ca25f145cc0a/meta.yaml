@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/286751057660019599/00f4bd2e3f804c459660ca25f145cc0a/artifacts
+end_time: 1733878348117
+entry_point_name: ''
+experiment_id: '286751057660019599'
+lifecycle_stage: active
+run_id: 00f4bd2e3f804c459660ca25f145cc0a
+run_name: hilarious-bass-547
+run_uuid: 00f4bd2e3f804c459660ca25f145cc0a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733878337484
+status: 3
+tags: []
+user_id: i-gha

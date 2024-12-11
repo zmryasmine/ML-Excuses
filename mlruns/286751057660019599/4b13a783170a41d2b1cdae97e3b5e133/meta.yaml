@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/286751057660019599/4b13a783170a41d2b1cdae97e3b5e133/artifacts
+end_time: 1733877653771
+entry_point_name: ''
+experiment_id: '286751057660019599'
+lifecycle_stage: active
+run_id: 4b13a783170a41d2b1cdae97e3b5e133
+run_name: rare-moth-729
+run_uuid: 4b13a783170a41d2b1cdae97e3b5e133
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733877633227
+status: 3
+tags: []
+user_id: i-gha

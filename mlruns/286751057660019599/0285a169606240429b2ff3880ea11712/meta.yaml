@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/286751057660019599/0285a169606240429b2ff3880ea11712/artifacts
+end_time: 1733880592340
+entry_point_name: ''
+experiment_id: '286751057660019599'
+lifecycle_stage: active
+run_id: 0285a169606240429b2ff3880ea11712
+run_name: resilient-smelt-177
+run_uuid: 0285a169606240429b2ff3880ea11712
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733880581210
+status: 3
+tags: []
+user_id: i-gha

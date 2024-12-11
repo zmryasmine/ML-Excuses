@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/286751057660019599/4ffb2847a6f0431ba63d715ff811a12a/artifacts
+end_time: 1733876354591
+entry_point_name: ''
+experiment_id: '286751057660019599'
+lifecycle_stage: active
+run_id: 4ffb2847a6f0431ba63d715ff811a12a
+run_name: honorable-koi-77
+run_uuid: 4ffb2847a6f0431ba63d715ff811a12a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733876303210
+status: 3
+tags: []
+user_id: i-gha

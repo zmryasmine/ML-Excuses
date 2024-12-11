@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/286751057660019599/28acd618d92243419876b6ccc7008813/artifacts
+end_time: 1733875377617
+entry_point_name: ''
+experiment_id: '286751057660019599'
+lifecycle_stage: active
+run_id: 28acd618d92243419876b6ccc7008813
+run_name: secretive-fox-176
+run_uuid: 28acd618d92243419876b6ccc7008813
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733875291127
+status: 3
+tags: []
+user_id: i-gha

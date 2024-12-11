@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/286751057660019599/6994ad8d20ba4e4eaab4f0c9bd327578/artifacts
+end_time: 1733875928199
+entry_point_name: ''
+experiment_id: '286751057660019599'
+lifecycle_stage: active
+run_id: 6994ad8d20ba4e4eaab4f0c9bd327578
+run_name: industrious-lark-190
+run_uuid: 6994ad8d20ba4e4eaab4f0c9bd327578
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733875917340
+status: 3
+tags: []
+user_id: i-gha

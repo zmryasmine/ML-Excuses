@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/286751057660019599/a3a61c623aa34e86943bd1135b6e5e55/artifacts
+end_time: 1733872643555
+entry_point_name: ''
+experiment_id: '286751057660019599'
+lifecycle_stage: active
+run_id: a3a61c623aa34e86943bd1135b6e5e55
+run_name: monumental-ox-815
+run_uuid: a3a61c623aa34e86943bd1135b6e5e55
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733872552519
+status: 3
+tags: []
+user_id: i-gha

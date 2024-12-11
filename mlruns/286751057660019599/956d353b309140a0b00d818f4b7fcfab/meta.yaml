@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/286751057660019599/956d353b309140a0b00d818f4b7fcfab/artifacts
+end_time: 1733873814269
+entry_point_name: ''
+experiment_id: '286751057660019599'
+lifecycle_stage: active
+run_id: 956d353b309140a0b00d818f4b7fcfab
+run_name: polite-squid-870
+run_uuid: 956d353b309140a0b00d818f4b7fcfab
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733873733414
+status: 3
+tags: []
+user_id: i-gha

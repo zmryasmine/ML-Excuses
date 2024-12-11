@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/286751057660019599/85490bbb794f483ca302babf53d7818d/artifacts
+end_time: 1733875899863
+entry_point_name: ''
+experiment_id: '286751057660019599'
+lifecycle_stage: active
+run_id: 85490bbb794f483ca302babf53d7818d
+run_name: polite-panda-905
+run_uuid: 85490bbb794f483ca302babf53d7818d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733875893104
+status: 3
+tags: []
+user_id: i-gha

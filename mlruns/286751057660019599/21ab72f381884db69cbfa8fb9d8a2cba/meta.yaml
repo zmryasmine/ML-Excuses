@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/286751057660019599/21ab72f381884db69cbfa8fb9d8a2cba/artifacts
+end_time: 1733875022179
+entry_point_name: ''
+experiment_id: '286751057660019599'
+lifecycle_stage: active
+run_id: 21ab72f381884db69cbfa8fb9d8a2cba
+run_name: thundering-owl-746
+run_uuid: 21ab72f381884db69cbfa8fb9d8a2cba
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733874979010
+status: 3
+tags: []
+user_id: i-gha

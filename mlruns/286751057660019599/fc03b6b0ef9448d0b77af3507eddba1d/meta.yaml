@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/286751057660019599/fc03b6b0ef9448d0b77af3507eddba1d/artifacts
+end_time: 1733879100379
+entry_point_name: ''
+experiment_id: '286751057660019599'
+lifecycle_stage: active
+run_id: fc03b6b0ef9448d0b77af3507eddba1d
+run_name: merciful-stag-560
+run_uuid: fc03b6b0ef9448d0b77af3507eddba1d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733878989986
+status: 3
+tags: []
+user_id: i-gha

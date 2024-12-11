@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/286751057660019599/a03215161cf545ae98935c673a4a0a1e/artifacts
+end_time: 1733874367841
+entry_point_name: ''
+experiment_id: '286751057660019599'
+lifecycle_stage: active
+run_id: a03215161cf545ae98935c673a4a0a1e
+run_name: mysterious-auk-731
+run_uuid: a03215161cf545ae98935c673a4a0a1e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733874362151
+status: 3
+tags: []
+user_id: i-gha

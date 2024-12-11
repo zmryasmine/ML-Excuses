@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/286751057660019599/ac0c26fe62ac41d1abd9bbae4a3b8235/artifacts
+end_time: 1733872233880
+entry_point_name: ''
+experiment_id: '286751057660019599'
+lifecycle_stage: active
+run_id: ac0c26fe62ac41d1abd9bbae4a3b8235
+run_name: fun-duck-730
+run_uuid: ac0c26fe62ac41d1abd9bbae4a3b8235
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733872209795
+status: 3
+tags: []
+user_id: i-gha

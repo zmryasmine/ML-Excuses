@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/286751057660019599/27013e054ae2403f992d0ee2a6069fbf/artifacts
+end_time: 1733876002028
+entry_point_name: ''
+experiment_id: '286751057660019599'
+lifecycle_stage: active
+run_id: 27013e054ae2403f992d0ee2a6069fbf
+run_name: stately-hog-339
+run_uuid: 27013e054ae2403f992d0ee2a6069fbf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733875984787
+status: 3
+tags: []
+user_id: i-gha

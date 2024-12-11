@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/286751057660019599/3332d65affd9402dbb3abaac25f4304d/artifacts
+end_time: 1733879836556
+entry_point_name: ''
+experiment_id: '286751057660019599'
+lifecycle_stage: active
+run_id: 3332d65affd9402dbb3abaac25f4304d
+run_name: bold-quail-415
+run_uuid: 3332d65affd9402dbb3abaac25f4304d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733879810337
+status: 3
+tags: []
+user_id: i-gha

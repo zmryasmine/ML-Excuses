@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/286751057660019599/869c7cff717843daa47c97b320aabacd/artifacts
+end_time: 1733879130194
+entry_point_name: ''
+experiment_id: '286751057660019599'
+lifecycle_stage: active
+run_id: 869c7cff717843daa47c97b320aabacd
+run_name: puzzled-lynx-234
+run_uuid: 869c7cff717843daa47c97b320aabacd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733879109514
+status: 3
+tags: []
+user_id: i-gha

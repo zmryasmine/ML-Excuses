@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/286751057660019599/671496bab8f64d66b4bb32cbd77403da/artifacts
+end_time: 1733880791729
+entry_point_name: ''
+experiment_id: '286751057660019599'
+lifecycle_stage: active
+run_id: 671496bab8f64d66b4bb32cbd77403da
+run_name: bedecked-doe-364
+run_uuid: 671496bab8f64d66b4bb32cbd77403da
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733880773474
+status: 3
+tags: []
+user_id: i-gha

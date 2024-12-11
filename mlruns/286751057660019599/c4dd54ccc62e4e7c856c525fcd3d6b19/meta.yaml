@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/286751057660019599/c4dd54ccc62e4e7c856c525fcd3d6b19/artifacts
+end_time: 1733880839156
+entry_point_name: ''
+experiment_id: '286751057660019599'
+lifecycle_stage: active
+run_id: c4dd54ccc62e4e7c856c525fcd3d6b19
+run_name: burly-sheep-449
+run_uuid: c4dd54ccc62e4e7c856c525fcd3d6b19
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733880833847
+status: 3
+tags: []
+user_id: i-gha

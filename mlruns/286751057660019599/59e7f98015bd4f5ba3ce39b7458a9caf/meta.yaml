@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/286751057660019599/59e7f98015bd4f5ba3ce39b7458a9caf/artifacts
+end_time: 1733874012694
+entry_point_name: ''
+experiment_id: '286751057660019599'
+lifecycle_stage: active
+run_id: 59e7f98015bd4f5ba3ce39b7458a9caf
+run_name: intelligent-mare-471
+run_uuid: 59e7f98015bd4f5ba3ce39b7458a9caf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733873908325
+status: 3
+tags: []
+user_id: i-gha

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/286751057660019599/24b383dc9ee74346b5d0355e3d640abf/artifacts
+end_time: 1733874275543
+entry_point_name: ''
+experiment_id: '286751057660019599'
+lifecycle_stage: active
+run_id: 24b383dc9ee74346b5d0355e3d640abf
+run_name: beautiful-carp-882
+run_uuid: 24b383dc9ee74346b5d0355e3d640abf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733874266812
+status: 3
+tags: []
+user_id: i-gha

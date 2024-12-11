@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/286751057660019599/6b431d0661e44381b5690d477c5d9d22/artifacts
+end_time: 1733874199840
+entry_point_name: ''
+experiment_id: '286751057660019599'
+lifecycle_stage: active
+run_id: 6b431d0661e44381b5690d477c5d9d22
+run_name: enchanting-deer-891
+run_uuid: 6b431d0661e44381b5690d477c5d9d22
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733874186544
+status: 3
+tags: []
+user_id: i-gha

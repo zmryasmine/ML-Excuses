@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/286751057660019599/060f3b72f9c647ec8277ff9034bf8177/artifacts
+end_time: 1733879205887
+entry_point_name: ''
+experiment_id: '286751057660019599'
+lifecycle_stage: active
+run_id: 060f3b72f9c647ec8277ff9034bf8177
+run_name: rebellious-cod-463
+run_uuid: 060f3b72f9c647ec8277ff9034bf8177
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733879161376
+status: 3
+tags: []
+user_id: i-gha

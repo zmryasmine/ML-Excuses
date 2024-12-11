@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/286751057660019599/c2f4b9c9d8ab4a6792d7d7cfb7d649cc/artifacts
+end_time: 1733876978551
+entry_point_name: ''
+experiment_id: '286751057660019599'
+lifecycle_stage: active
+run_id: c2f4b9c9d8ab4a6792d7d7cfb7d649cc
+run_name: stately-hare-885
+run_uuid: c2f4b9c9d8ab4a6792d7d7cfb7d649cc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733876954280
+status: 3
+tags: []
+user_id: i-gha

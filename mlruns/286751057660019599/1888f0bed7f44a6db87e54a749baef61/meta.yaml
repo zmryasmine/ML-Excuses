@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/286751057660019599/1888f0bed7f44a6db87e54a749baef61/artifacts
+end_time: 1733878421341
+entry_point_name: ''
+experiment_id: '286751057660019599'
+lifecycle_stage: active
+run_id: 1888f0bed7f44a6db87e54a749baef61
+run_name: mysterious-wren-411
+run_uuid: 1888f0bed7f44a6db87e54a749baef61
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733878414633
+status: 3
+tags: []
+user_id: i-gha

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/286751057660019599/c1025088f04c481c9a85916e45f8914c/artifacts
+end_time: 1733875205297
+entry_point_name: ''
+experiment_id: '286751057660019599'
+lifecycle_stage: active
+run_id: c1025088f04c481c9a85916e45f8914c
+run_name: skittish-donkey-179
+run_uuid: c1025088f04c481c9a85916e45f8914c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733875134352
+status: 3
+tags: []
+user_id: i-gha

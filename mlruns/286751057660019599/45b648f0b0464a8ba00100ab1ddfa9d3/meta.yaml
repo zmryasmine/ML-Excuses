@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/286751057660019599/45b648f0b0464a8ba00100ab1ddfa9d3/artifacts
+end_time: 1733879930882
+entry_point_name: ''
+experiment_id: '286751057660019599'
+lifecycle_stage: active
+run_id: 45b648f0b0464a8ba00100ab1ddfa9d3
+run_name: capable-fox-476
+run_uuid: 45b648f0b0464a8ba00100ab1ddfa9d3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733879876488
+status: 3
+tags: []
+user_id: i-gha

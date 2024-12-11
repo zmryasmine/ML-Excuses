@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/286751057660019599/12e0931d25e94b42a7d39e1aa9f6d4dd/artifacts
+end_time: 1733873028401
+entry_point_name: ''
+experiment_id: '286751057660019599'
+lifecycle_stage: active
+run_id: 12e0931d25e94b42a7d39e1aa9f6d4dd
+run_name: orderly-croc-747
+run_uuid: 12e0931d25e94b42a7d39e1aa9f6d4dd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733872971417
+status: 3
+tags: []
+user_id: i-gha

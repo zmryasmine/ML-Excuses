@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/286751057660019599/9267181da697447193e65a3bb89d3442/artifacts
+end_time: 1733872922272
+entry_point_name: ''
+experiment_id: '286751057660019599'
+lifecycle_stage: active
+run_id: 9267181da697447193e65a3bb89d3442
+run_name: suave-mare-774
+run_uuid: 9267181da697447193e65a3bb89d3442
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733872889607
+status: 3
+tags: []
+user_id: i-gha

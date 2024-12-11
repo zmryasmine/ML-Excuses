@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/286751057660019599/0f76b3e6e1664d74b626e71109869dc3/artifacts
+end_time: 1733880969599
+entry_point_name: ''
+experiment_id: '286751057660019599'
+lifecycle_stage: active
+run_id: 0f76b3e6e1664d74b626e71109869dc3
+run_name: traveling-ray-19
+run_uuid: 0f76b3e6e1664d74b626e71109869dc3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733880947302
+status: 3
+tags: []
+user_id: i-gha

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/286751057660019599/0023af6959224e00a854f022b8f7a68f/artifacts
+end_time: 1733874576769
+entry_point_name: ''
+experiment_id: '286751057660019599'
+lifecycle_stage: active
+run_id: 0023af6959224e00a854f022b8f7a68f
+run_name: suave-mole-461
+run_uuid: 0023af6959224e00a854f022b8f7a68f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733874539659
+status: 3
+tags: []
+user_id: i-gha

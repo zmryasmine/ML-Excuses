@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/286751057660019599/36771aa3e20a4a07a8f14975b586d233/artifacts
+end_time: 1733874621790
+entry_point_name: ''
+experiment_id: '286751057660019599'
+lifecycle_stage: active
+run_id: 36771aa3e20a4a07a8f14975b586d233
+run_name: inquisitive-croc-861
+run_uuid: 36771aa3e20a4a07a8f14975b586d233
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733874576800
+status: 3
+tags: []
+user_id: i-gha

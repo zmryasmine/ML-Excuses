@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/286751057660019599/e51fa71236c74115b57fd3910aa9ce2e/artifacts
+end_time: 1733875907939
+entry_point_name: ''
+experiment_id: '286751057660019599'
+lifecycle_stage: active
+run_id: e51fa71236c74115b57fd3910aa9ce2e
+run_name: dazzling-shrimp-957
+run_uuid: e51fa71236c74115b57fd3910aa9ce2e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733875899907
+status: 3
+tags: []
+user_id: i-gha

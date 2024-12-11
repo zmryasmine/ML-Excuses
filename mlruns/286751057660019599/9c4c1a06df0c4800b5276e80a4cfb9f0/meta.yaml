@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/286751057660019599/9c4c1a06df0c4800b5276e80a4cfb9f0/artifacts
+end_time: 1733875794839
+entry_point_name: ''
+experiment_id: '286751057660019599'
+lifecycle_stage: active
+run_id: 9c4c1a06df0c4800b5276e80a4cfb9f0
+run_name: stately-calf-67
+run_uuid: 9c4c1a06df0c4800b5276e80a4cfb9f0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733875711867
+status: 3
+tags: []
+user_id: i-gha

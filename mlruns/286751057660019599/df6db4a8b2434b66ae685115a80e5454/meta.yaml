@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/286751057660019599/df6db4a8b2434b66ae685115a80e5454/artifacts
+end_time: 1733878337451
+entry_point_name: ''
+experiment_id: '286751057660019599'
+lifecycle_stage: active
+run_id: df6db4a8b2434b66ae685115a80e5454
+run_name: legendary-gnu-270
+run_uuid: df6db4a8b2434b66ae685115a80e5454
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733878328063
+status: 3
+tags: []
+user_id: i-gha

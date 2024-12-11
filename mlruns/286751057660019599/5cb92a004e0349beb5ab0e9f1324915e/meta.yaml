@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/286751057660019599/5cb92a004e0349beb5ab0e9f1324915e/artifacts
+end_time: 1733878566657
+entry_point_name: ''
+experiment_id: '286751057660019599'
+lifecycle_stage: active
+run_id: 5cb92a004e0349beb5ab0e9f1324915e
+run_name: valuable-cub-321
+run_uuid: 5cb92a004e0349beb5ab0e9f1324915e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733878535136
+status: 3
+tags: []
+user_id: i-gha

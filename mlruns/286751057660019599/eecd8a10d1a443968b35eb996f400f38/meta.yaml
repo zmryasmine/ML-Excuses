@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/286751057660019599/eecd8a10d1a443968b35eb996f400f38/artifacts
+end_time: 1733876022222
+entry_point_name: ''
+experiment_id: '286751057660019599'
+lifecycle_stage: active
+run_id: eecd8a10d1a443968b35eb996f400f38
+run_name: rumbling-chimp-391
+run_uuid: eecd8a10d1a443968b35eb996f400f38
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733876014112
+status: 3
+tags: []
+user_id: i-gha

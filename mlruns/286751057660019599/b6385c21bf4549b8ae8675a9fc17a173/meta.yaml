@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/286751057660019599/b6385c21bf4549b8ae8675a9fc17a173/artifacts
+end_time: 1733877783048
+entry_point_name: ''
+experiment_id: '286751057660019599'
+lifecycle_stage: active
+run_id: b6385c21bf4549b8ae8675a9fc17a173
+run_name: bustling-elk-186
+run_uuid: b6385c21bf4549b8ae8675a9fc17a173
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733877729375
+status: 3
+tags: []
+user_id: i-gha

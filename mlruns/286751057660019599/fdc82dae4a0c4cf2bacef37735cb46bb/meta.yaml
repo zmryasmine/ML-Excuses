@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/286751057660019599/fdc82dae4a0c4cf2bacef37735cb46bb/artifacts
+end_time: 1733876121076
+entry_point_name: ''
+experiment_id: '286751057660019599'
+lifecycle_stage: active
+run_id: fdc82dae4a0c4cf2bacef37735cb46bb
+run_name: mysterious-stork-421
+run_uuid: fdc82dae4a0c4cf2bacef37735cb46bb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733876115767
+status: 3
+tags: []
+user_id: i-gha

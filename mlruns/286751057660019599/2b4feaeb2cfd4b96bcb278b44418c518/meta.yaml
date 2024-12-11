@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/286751057660019599/2b4feaeb2cfd4b96bcb278b44418c518/artifacts
+end_time: 1733876954239
+entry_point_name: ''
+experiment_id: '286751057660019599'
+lifecycle_stage: active
+run_id: 2b4feaeb2cfd4b96bcb278b44418c518
+run_name: delightful-sheep-604
+run_uuid: 2b4feaeb2cfd4b96bcb278b44418c518
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733876942780
+status: 3
+tags: []
+user_id: i-gha

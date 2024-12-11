@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/286751057660019599/1ede34c3135748b7b9ab5de542fd130a/artifacts
+end_time: 1733876127748
+entry_point_name: ''
+experiment_id: '286751057660019599'
+lifecycle_stage: active
+run_id: 1ede34c3135748b7b9ab5de542fd130a
+run_name: calm-cub-429
+run_uuid: 1ede34c3135748b7b9ab5de542fd130a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733876121116
+status: 3
+tags: []
+user_id: i-gha

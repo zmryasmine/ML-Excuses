@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/286751057660019599/ec4ec949ac2043aa8e57269880552160/artifacts
+end_time: 1733874214966
+entry_point_name: ''
+experiment_id: '286751057660019599'
+lifecycle_stage: active
+run_id: ec4ec949ac2043aa8e57269880552160
+run_name: sedate-sloth-806
+run_uuid: ec4ec949ac2043aa8e57269880552160
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733874199871
+status: 3
+tags: []
+user_id: i-gha

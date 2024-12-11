@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/286751057660019599/0debc83892694a07a4401de33f87d672/artifacts
+end_time: 1733878328033
+entry_point_name: ''
+experiment_id: '286751057660019599'
+lifecycle_stage: active
+run_id: 0debc83892694a07a4401de33f87d672
+run_name: bald-newt-75
+run_uuid: 0debc83892694a07a4401de33f87d672
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733878319840
+status: 3
+tags: []
+user_id: i-gha

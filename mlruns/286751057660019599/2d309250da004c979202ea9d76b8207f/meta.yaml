@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/286751057660019599/2d309250da004c979202ea9d76b8207f/artifacts
+end_time: 1733876082547
+entry_point_name: ''
+experiment_id: '286751057660019599'
+lifecycle_stage: active
+run_id: 2d309250da004c979202ea9d76b8207f
+run_name: sneaky-worm-871
+run_uuid: 2d309250da004c979202ea9d76b8207f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733876067845
+status: 3
+tags: []
+user_id: i-gha

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/286751057660019599/ce9e8f31c3f34a14ae81330bfaa05eda/artifacts
+end_time: 1733879999562
+entry_point_name: ''
+experiment_id: '286751057660019599'
+lifecycle_stage: active
+run_id: ce9e8f31c3f34a14ae81330bfaa05eda
+run_name: enthused-seal-895
+run_uuid: ce9e8f31c3f34a14ae81330bfaa05eda
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733879930935
+status: 3
+tags: []
+user_id: i-gha

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/286751057660019599/954a4ab03d8547048e053c3d16baf793/artifacts
+end_time: 1733875711825
+entry_point_name: ''
+experiment_id: '286751057660019599'
+lifecycle_stage: active
+run_id: 954a4ab03d8547048e053c3d16baf793
+run_name: likeable-kite-942
+run_uuid: 954a4ab03d8547048e053c3d16baf793
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733875637414
+status: 3
+tags: []
+user_id: i-gha

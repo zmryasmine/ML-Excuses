@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/286751057660019599/9b8ea1170c374f8ebd51b18df36f3c22/artifacts
+end_time: 1733875134319
+entry_point_name: ''
+experiment_id: '286751057660019599'
+lifecycle_stage: active
+run_id: 9b8ea1170c374f8ebd51b18df36f3c22
+run_name: legendary-rat-455
+run_uuid: 9b8ea1170c374f8ebd51b18df36f3c22
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733875072922
+status: 3
+tags: []
+user_id: i-gha

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/286751057660019599/78b9cb6cbad14ed9aed3ae4b14db67fe/artifacts
+end_time: 1733874539630
+entry_point_name: ''
+experiment_id: '286751057660019599'
+lifecycle_stage: active
+run_id: 78b9cb6cbad14ed9aed3ae4b14db67fe
+run_name: righteous-eel-8
+run_uuid: 78b9cb6cbad14ed9aed3ae4b14db67fe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733874509899
+status: 3
+tags: []
+user_id: i-gha

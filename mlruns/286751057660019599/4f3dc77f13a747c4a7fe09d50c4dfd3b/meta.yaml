@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/286751057660019599/4f3dc77f13a747c4a7fe09d50c4dfd3b/artifacts
+end_time: 1733875917300
+entry_point_name: ''
+experiment_id: '286751057660019599'
+lifecycle_stage: active
+run_id: 4f3dc77f13a747c4a7fe09d50c4dfd3b
+run_name: sneaky-ray-625
+run_uuid: 4f3dc77f13a747c4a7fe09d50c4dfd3b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733875907980
+status: 3
+tags: []
+user_id: i-gha

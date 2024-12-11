@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/286751057660019599/e321fcbe6d4846608235d005188bf867/artifacts
+end_time: 1733879798762
+entry_point_name: ''
+experiment_id: '286751057660019599'
+lifecycle_stage: active
+run_id: e321fcbe6d4846608235d005188bf867
+run_name: burly-tern-143
+run_uuid: e321fcbe6d4846608235d005188bf867
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733879657203
+status: 3
+tags: []
+user_id: i-gha

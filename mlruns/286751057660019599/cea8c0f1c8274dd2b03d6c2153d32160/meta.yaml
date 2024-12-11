@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/286751057660019599/cea8c0f1c8274dd2b03d6c2153d32160/artifacts
+end_time: 1733878389197
+entry_point_name: ''
+experiment_id: '286751057660019599'
+lifecycle_stage: active
+run_id: cea8c0f1c8274dd2b03d6c2153d32160
+run_name: unleashed-sow-58
+run_uuid: cea8c0f1c8274dd2b03d6c2153d32160
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733878374042
+status: 3
+tags: []
+user_id: i-gha

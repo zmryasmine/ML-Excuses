@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/286751057660019599/e881ff93511d4e2a81ac7c0d14060a06/artifacts
+end_time: 1733872398299
+entry_point_name: ''
+experiment_id: '286751057660019599'
+lifecycle_stage: active
+run_id: e881ff93511d4e2a81ac7c0d14060a06
+run_name: languid-wolf-325
+run_uuid: e881ff93511d4e2a81ac7c0d14060a06
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733872339392
+status: 3
+tags: []
+user_id: i-gha
